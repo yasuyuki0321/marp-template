@@ -1,0 +1,13 @@
+{
+    "markdown.marp.themes": [
+      "./theme/base.css",
+      "./theme/override.css"
+    ],
+    "markdownlint.config": {
+      // インラインHTMLの制限を解除
+      "MD033": false,
+  
+      // H1がなくてもOK
+      "MD041": false,
+    }
+  }

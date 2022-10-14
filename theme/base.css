@@ -1,0 +1,29 @@
+/* @theme base */
+
+@import 'gaia';
+
+section {
+  font-family: "Arial", "Hiragino Maru Gothic ProN";
+  font-size: 32px;
+  padding: 40px;
+  background-color: white;
+}
+
+section.title {
+  font-family: "Arial", "Hiragino Maru Gothic ProN";
+  font-size: 36px;
+}
+
+section.slide{
+  font-family: "Arial", "Hiragino Maru Gothic ProN";
+  font-size: 28px;
+}
+
+section.table{
+  font-family: "Arial", "Hiragino Maru Gothic ProN";
+  font-size: 22px;
+}
+
+footer {
+  text-align: center;
+}
